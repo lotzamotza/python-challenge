@@ -1,2 +1,4 @@
 # python-challenge
-I received tutoring for this assignment. I got help with the loops which is where i struggle a bit with currently. I understand how to create the csv file path, open it and read it to the terminal.
+Two tasks completed - analyze election data in pypoll and financial data in pybank both from imported csv files.
+In pybank we are looking at the total months, net profit/loss, the average change, and identifying the periods with the greatest increase and decrease in profits. 
+In pypoll calculations were made to analyze the results of an election between 3 candidates and concluded the winner and the remaining candidates of the election each displayed with the total number of and percentage of votes that were cast.
